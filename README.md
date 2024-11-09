@@ -2,9 +2,9 @@
 
 The reason this project called Mase is beacause my name is Mes :p
 
-*Mase* is an cross platform project for the visualization of maze generalization and maze solver algorithm.
+*Mase* is an cross platform project for the visualization of maze generalization and maze solver algorithm. Also, this is an project for MCL stuednts to practice C++, the repo is at [Maze-Practice](https://github.com/OpenMCL/Maze-Practice).
 
-It was made by C++17 and ImGui, with the OpenGL and glfw/glad backend.
+*Mase* was made by C++17 and ImGui, with the OpenGL and glfw/glad backend.
 
 ![](document/mase.gif)
 
@@ -39,8 +39,8 @@ There are two heuristic functions now:
 # How to build
 
 ```bash
-git clone https://github.com/Mes0903/Mes_Imgui_template.git
-cd Mes_Imgui_template
+git clone https://github.com/Mes0903/Mase.git
+cd Mase
 git submodule init
 git submodule update
 mkdir build && cd build
